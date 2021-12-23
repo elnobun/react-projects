@@ -1,4 +1,5 @@
 import Announcement from "./components/Announcement";
+import Categories from "./components/Categories";
 import Slider from "./components/Slider";
 import Home from "./pages/Home";
 
@@ -8,6 +9,7 @@ function App() {
 			<Announcement />
 			<Home />
 			<Slider />
+			<Categories />
 		</div>
 	);
 }
