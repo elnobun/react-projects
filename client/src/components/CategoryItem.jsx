@@ -17,6 +17,7 @@ export default CategoryItem;
 const Container = styled.div`
 	flex: 1;
 	margin: .1875rem;
+	min-width: 17.5rem;
 	height: 30rem;
 	position: relative;
 `
